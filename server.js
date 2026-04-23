@@ -14,6 +14,7 @@ const channels = {
   '6': 'http://103.157.248.140:8000/play/a00s/index.m3u8',
   '7': 'https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8',
   '8': 'https://mumt01.tangotv.in/KAIRALI/index.m3u8',
+  '9': 'http://portal8k.top:80/play/live.php?mac=00:1A:79:64:0c:5b&stream=276742&extension=ts',
 };
 
 // 🔥 Clean URL: /box/1.ts
